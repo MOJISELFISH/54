@@ -1,0 +1,13 @@
+{
+  "address": "-1:c51b6476a1e8de9b753517973194fb8eb1ec4661cac1889e6b211d2d1cc98e40",
+  "balance": 731279457,
+  "last_activity": 1733368233,
+  "status": "active",
+  "interfaces": [
+    "tv_pool"
+  ],
+  "get_methods": [
+    "get_pool_data"
+  ],
+  "is_wallet": false
+}
